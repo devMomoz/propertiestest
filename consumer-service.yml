@@ -2,5 +2,4 @@ server:
   port: ${PORT:8889}
 
 message: Message from Consumer Service
-
 varCrypto: true
